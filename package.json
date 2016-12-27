@@ -1,0 +1,25 @@
+{
+  "name": "@oi/oi-oi",
+  "version": "0.0.1",
+  "description": "Development module for Oi",
+  "author": "Oliver Lade <piemaster21@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "oi",
+    "development"
+  ],
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "@oi/oi": "0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "extensions": {
+    "oi:module": {
+      "dev": "./index.js"
+    }
+  }
+}
