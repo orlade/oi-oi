@@ -15,7 +15,7 @@ module.exports = function (data, host, options) {
       }
     },
     config: {
-      workingDir: '${workspace}/oi/lib'
+      workingDir: '${workspace}/oi'
     },
     requireConfig: {
       workspace: true
