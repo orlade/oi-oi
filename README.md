@@ -1,6 +1,6 @@
 # Oi Development
 
-[![Build Status](https://travis-ci.org/orlade/oi-oi.svg?branch=develop)](https://travis-ci.org/orlade/oi-sysl)
+[![Build Status](https://travis-ci.org/orlade/oi-oi.svg?branch=develop)](https://travis-ci.org/orlade/oi-oi)
 
 An [Oi](https://github.com/orlade/oi) plugin to run development tasks on Oi itself.
 
